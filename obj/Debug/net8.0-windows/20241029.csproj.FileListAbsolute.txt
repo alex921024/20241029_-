@@ -1,0 +1,5 @@
+C:\Users\owner\Desktop\20241029\20241029\obj\Debug\net8.0-windows\20241029.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\20241029\20241029\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\owner\Desktop\20241029\20241029\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\owner\Desktop\20241029\20241029\obj\Debug\net8.0-windows\20241029_MarkupCompile.cache
+C:\Users\owner\Desktop\20241029\20241029\obj\Debug\net8.0-windows\20241029_MarkupCompile.lref
